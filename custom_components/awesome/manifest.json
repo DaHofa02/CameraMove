@@ -1,1 +1,13 @@
-
+{
+  "domain": "cameramove",
+  "name": "CameraMove integration",
+  "codeowners": [
+    "@dahofa02"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/DaHofa02/CameraMove/",
+  "issue_tracker": "https://github.com/DaHofa02/CameraMove/issues",
+  "requirements": [],
+  "version": "0.1"
+}
